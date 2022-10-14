@@ -82,7 +82,7 @@ $ npm i -D sass-loader sass
       },
 ```
 정규표현식을 사용하여 css와 scss 모두 파일을 읽을 수 있게 하였습니다.
-(중간에 주삭 처리된 부분은 후에 설명) <br>
+(중간에 주석 처리된 부분은 후에 설명) <br>
 이 부분을 `module.exports`와 `plugins` 사이에 적어 두었습니다.
 
 ## `main.js`로 `css` 파일 불러오기
